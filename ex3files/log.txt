@@ -8,36 +8,46 @@
 real	0m1.208s
 user	0m0.013s
 sys	0m0.004s
-startTime: 
+startTime: Sunday 07 February 2021 11:26:55 PM IST
 endTime: Sunday 07 February 2021 11:26:56 PM IST
 
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0 43 68450   43 29995    0     0  31875      0  0:00:02 --:--:--  0:00:02 31841100 68450  100 68450    0     0  59729      0  0:00:01  0:00:01 --:--:-- 59729
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+ 43 68450   43 29995    0     0  31875      0  0:00:02 --:--:--  0:00:02 31841
+100 68450  100 68450    0     0  59729      0  0:00:01  0:00:01 --:--:-- 59729
 
 real	0m1.156s
 user	0m0.016s
 sys	0m0.000s
-startTime: 
+startTime: Sunday 07 February 2021 11:27:58 PM IST
 endTime: Sunday 07 February 2021 11:27:59 PM IST
 
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 68455  100 68455    0     0  66850      0  0:00:01  0:00:01 --:--:-- 66915
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+100 68455  100 68455    0     0  66850      0  0:00:01  0:00:01 --:--:-- 66915
 
 real	0m1.033s
 user	0m0.004s
 sys	0m0.012s
-startTime: 
+startTime: Sunday 07 February 2021 11:29:30 PM IST
 endTime: Sunday 07 February 2021 11:29:31 PM IST
 
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  5 68455    5  3979    0     0   2778      0  0:00:24  0:00:01  0:00:23  2776100 68455  100 68455    0     0  35972      0  0:00:01  0:00:01 --:--:-- 35953
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  5 68455    5  3979    0     0   2778      0  0:00:24  0:00:01  0:00:23  2776
+100 68455  100 68455    0     0  35972      0  0:00:01  0:00:01 --:--:-- 35953
 
 real	0m1.952s
 user	0m0.010s
 sys	0m0.014s
-startTime: 
+startTime: Sunday 07 February 2021 11:32:54 PM IST
 endTime: Sunday 07 February 2021 11:32:56 PM IST
 
