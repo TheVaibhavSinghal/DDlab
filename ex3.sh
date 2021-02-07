@@ -4,7 +4,7 @@ LOG=./ex3files/log.txt #contains the output log
 URL=http://www.iiitdm.ac.in # website being tested
 RESULT=./ex3files/result.txt # stores the time alone
 
-start_date=`date`
+startTime=`date`
 echo "START-------------------------------------------------" >> $FILE
 echo "" >> $FILE
 time(curl --connect-timeout 100 $URL) >> $FILE 2>> $LOG
