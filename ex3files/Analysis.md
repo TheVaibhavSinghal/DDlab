@@ -1,4 +1,4 @@
-Response Time
+*Response Time*
 
 |Time| real|user|sys|
 | :------ | :------: |:----:|:----:|
@@ -7,7 +7,7 @@ Response Time
 |11:29:31 PM| 0m1.033s| 0m0.004s| 0m0.012s| 
 |11:32:56 PM| 0m1.952s| 0m0.010s| 0m0.014s| 
 
-Average Response Time
+*Average Response Time*
 
 real: 0m1.337s
 
