@@ -1,8 +1,8 @@
 #!/bin/bash
-FILE=./ex3files/web.out
-LOG=./ex3files/log.txt
-URL=http://www.iiitdm.ac.in
-RESULT=./ex3files/result.txt
+FILE=./ex3files/web.out #saves the webpage in this file
+LOG=./ex3files/log.txt #contains the output log  
+URL=http://www.iiitdm.ac.in # website being tested
+RESULT=./ex3files/result.txt # stores the time alone
 
 start_date=`date`
 echo "START-------------------------------------------------" >> $FILE
