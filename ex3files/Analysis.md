@@ -1,6 +1,6 @@
-|Shop Category| Quarter 1|Quarter 2|Quarter 3|Quarter 4|
-| :------ | :------: |:----:|:----:|:----:|
-|Textile| 10| 6| 8| 13|
-|Jewellery| 5| 5| 2| 4|
-|Cleaning Essentials| 15| 20| 16| 15|
-|Cosmetics| 14| 10| 21| 11|
+|Time| real|user|sys|
+| :------ | :------: |:----:|:----:|
+|11:26:56 PM| 0m1.208s| 0m0.013s| 0m0.004s| 
+|11:27:59 PM| 0m1.156s| 0m0.016s| 0m0.000s| 
+|11:29:31 PM| 0m1.033s| 0m0.004s| 0m0.012s| 
+|11:32:56 PM| 0m1.952s| 0m0.010s| 0m0.014s| 
