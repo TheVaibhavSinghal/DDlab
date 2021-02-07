@@ -1,0 +1,12 @@
+10 Daemons:
+
+anacron - Executed delayed cron tasks at boot time
+crond - The task scheduler daemon
+dhcpd - Dynamic Host Configuration Protocol and Internet Bootstrap Protocol Server
+httpd - Web Server Daemon
+mountd - mount daemon
+mysql - Database server daemon
+nmbd - Network Message Block Daemon
+sendmail - A mail transfer agent Daemon
+smbd - Samba (an SMB Server) Daemon
+sshd - Secure Shell Server Daemon
