@@ -8,6 +8,9 @@ Response Time
 |11:32:56 PM| 0m1.952s| 0m0.010s| 0m0.014s| 
 
 Average Response Time
+
 real: 0m1.337s
+
 user: 0m0.011s
+
 sys: 0m0.008s
