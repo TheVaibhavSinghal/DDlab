@@ -13,8 +13,8 @@ We can see that the ex6 module is present in the list.
   
 Checking whether the driver was registered as char driver or not using **cat /proc/devices**
 ![3](./ex6/ex6ss/3.png)  
-  
 We can see that major number 500 is assigned to my dd.  
+  
 In another terminal **echo "hi" > /dev/ex6** cmd was typed, after in the first terminal **dmesg** cmd was run whose output is as follows:
 ![4](./ex6/ex6ss/4.png)  
   
