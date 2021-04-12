@@ -1,6 +1,6 @@
 # Lab 9 Exercise
 ## Keyboard Logger  
-![Click here](./ex9/ex9.c) to view the kernel code.  
+![Click here](./ex9/keylogger.c) to view the kernel code.  
 ### Output
 
 Compiling the kernel code using make cmd.  
