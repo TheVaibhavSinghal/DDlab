@@ -8,7 +8,7 @@ Compiling the kernel code using make cmd.
 ![1](./labExamQ2/2a/2ass/1.png)  
 ![Click here](./labExamQ2/2a/Makefile) to view the makefile.  
 
-Inserting the module using **insmod 2a.ko count=20**
+Inserting the module using **insmod 2a.ko count=20**  
 ![2](./labExamQ2/2a/2ass/2.png)  
 
 Checking whether inserted or not using **lsmod | less** command.  
