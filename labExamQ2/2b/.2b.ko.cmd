@@ -1,0 +1,1 @@
+cmd_/home/vaibhav/DDlab/labExamQ2/2b/2b.ko := ld -r -m elf_x86_64  -z max-page-size=0x200000  --build-id  -T ./scripts/module-common.lds -o /home/vaibhav/DDlab/labExamQ2/2b/2b.ko /home/vaibhav/DDlab/labExamQ2/2b/2b.o /home/vaibhav/DDlab/labExamQ2/2b/2b.mod.o;  true
